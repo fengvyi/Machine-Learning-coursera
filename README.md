@@ -6,3 +6,6 @@ My solutions for Machine Learning by Stanford University at coursera.org
 
 ## ex2
 ![](https://github.com/fengvyi/Machine-Learning-coursera/blob/master/ex2.PNG)
+
+## ex3
+![](https://github.com/fengvyi/Machine-Learning-coursera/blob/master/ex3.PNG)
